@@ -3,8 +3,8 @@
 ## Student Details
 
 - Student ID: `**U1610101**`
-- Student Name:`**Kamola Azimova**`
-- Section Number: `**001**`
+- Student Name:`Kamola Azimova`
+- Section Number: `001`
 
 ## Tasks
 Finish following tasks in this project:
